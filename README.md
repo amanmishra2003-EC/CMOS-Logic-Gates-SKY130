@@ -188,6 +188,9 @@ Interested in:
 GitHub:
 https://github.com/amanmishra2003-EC
 
+LinKdin:
+https://www.linkedin.com/in/aman-mishra-ece/
+
 
 
 ---
