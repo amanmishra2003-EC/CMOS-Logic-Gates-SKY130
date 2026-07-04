@@ -136,10 +136,10 @@ The input timing is selected to verify every input combination.
 Simulation confirms correct CMOS logic operation for:
 
 - NAND Gate
-![NAND WAVEFORM](nand-waveform.png)
+![NAND Waveform](nand/nand-waveform.png)
 
 - NOR Gate
-![NOR WAVEFORM](nor-waveform.png)
+![NOR Waveform](nor/nor-waveform.png)
 Waveforms demonstrate expected output transitions for all input combinations.
 
 ---
